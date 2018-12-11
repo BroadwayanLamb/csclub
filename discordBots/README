@@ -1,0 +1,17 @@
+All the information you need is at
+	https://github.com/Discord4J/Discord4J
+
+
+But heres the breakdown:
+
+DISCORD4J is the java discord bot interfacing library (it's what allows you to make bots in java):
+	https://discord4j.com/downloads.html
+
+To be able to use it, in eclipse:
+	Project Properties > Java Build Path > Add the jar file
+
+Here are the javadocs:
+	https://jitpack.io/com/github/Discord4J/Discord4J/2.3.2/javadoc/
+
+Here is an example bot:
+	https://github.com/oopsjpeg/d4j-audioplayer/blob/master/src/main/java/com/oopsjpeg/d4j_audioplayer/Example.java
